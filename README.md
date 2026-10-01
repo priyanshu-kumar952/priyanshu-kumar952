@@ -1,216 +1,106 @@
+# 👋 Hi, I'm Priyanshu Kumar
 
-# 👋 Priyanshu Kumar
+**B.Tech, Computer Science and Technology** · SAGE University, Indore · 2026–2030
 
-**B.Tech — Computer Science and Technology**  
-SAGE University, Indore | 2026–2030
-
-Software Engineering • AI/ML • Full-Stack Development • Backend Systems • System Architecture
+Software Engineering • Backend Systems • Full-Stack Development • AI/LLM Applications • Voice AI
 
 ---
 
 ## 🧑‍💻 About
 
-I am a Computer Science and Technology student interested in building software systems, exploring artificial intelligence, and understanding how complex systems work.
+I'm a Computer Science student who learns by building. I like taking an idea and turning it into a working system, whether that's a full-stack app, a backend service or an AI experiment.
 
-I learn primarily by building projects and turning ideas into practical technical systems — from full-stack applications and backend infrastructure to experimental AI research.
-
-My interests span **software engineering, AI/ML, backend development, system architecture, and AI systems**.
+Right now I'm focused on backend engineering and AI systems, especially how to let an LLM do useful work without giving it unsafe access to your data.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Languages
-
-Python • C++ • JavaScript • HTML5 • CSS3
-
-### Frontend
-
-React • Next.js • Responsive Web Development
-
-### Backend
-
-REST APIs • Next.js Route Handlers • JWT Authentication • bcrypt
-
-### Databases
-
-SQLite • SQL • Database Design • Transactions • Indexing
-
-### Cloud & DevOps
-
-Docker • AWS EC2 • GitHub Actions • Linux • Caddy
-
-### Tools & Technologies
-
-Git • GitHub • Firebase • Recharts • Lucide React
-
-### Core Concepts
-
-Data Structures & Algorithms • Object-Oriented Programming • Authentication • Authorization • API Design • Database Design • Software Architecture • System Design
-
-### AI & Research Interests
-
-Artificial Intelligence • AI/ML • AI Agents • Voice AI • LLM Applications • AI Memory Systems • Conversational AI
-
----
-
-# 🚀 Featured Projects
-
-## 💊 Mithila Medico — Pharmacy E-Commerce & Management Platform
-
-**Next.js • React • JavaScript • SQLite • JWT • Docker • AWS**
-
-A full-stack pharmacy e-commerce and management platform built around the real operational workflow of a neighborhood pharmacy.
-
-The system brings together **customer ordering, pharmacy operations, batch-level inventory, billing, analytics, and audit logging** in a single application.
-
-### Key Work
-
-- Built customer medicine search, cart, ordering, tracking, and purchase history.
-- Developed separate **Customer, Staff, and Owner/Admin workflows**.
-- Implemented order processing and fulfillment workflows.
-- Designed **batch-level inventory management** with stock and expiry tracking.
-- Implemented low-stock, expired, and upcoming-expiry monitoring.
-- Built billing logic based on the actual inventory batch selected during fulfillment.
-- Developed sales analytics, daily trends, top-selling medicine reports, and date-range analysis.
-- Implemented order and inventory audit logging.
-- Built REST-style APIs using Next.js Route Handlers.
-- Implemented JWT authentication, password hashing, HTTP-only sessions, and role-based authorization.
-- Designed relational SQLite structures using foreign keys, indexes, transactions, WAL mode, migrations, and persistent storage.
-- Containerized the application using Docker.
-- Deployed the application on **AWS EC2**.
-- Built an automated CI/CD pipeline using **GitHub Actions, GitHub Container Registry, AWS OIDC/IAM, and AWS Systems Manager**.
-
-**Project:**  
-[Medico — Pharmacy E-Commerce & Management Platform](https://github.com/priyanshu-kumar952/medico-an-e-commerce-web-application.git)
-
----
-
-## ☎️ Voice AI Sales & Lead Qualification System
-
-**Architecture & Design Project**
-
-A production-oriented system architecture for an AI-powered **real estate voice sales workforce**.
-
-The system is designed to automate inbound inquiries, outbound follow-ups, property qualification, inventory lookup, human escalation, and post-call lead processing.
-
-### Architecture & Design Work
-
-- Designed an end-to-end real-time voice AI architecture.
-- Designed the **STT → LLM → tool calling → TTS** conversational pipeline.
-- Designed property inventory lookup against buyer requirements.
-- Designed asynchronous FastAPI middleware for voice-system integrations.
-- Designed Redis caching for low-latency inventory queries.
-- Designed PostgreSQL schemas and indexing strategies for property and lead data.
-- Designed structured tool contracts such as `check_inventory` and `transfer_call`.
-- Designed HMAC-secured webhook handling and rate limiting.
-- Designed human escalation from AI conversations to live sales managers.
-- Designed SIP/PSTN integration using Exotel.
-- Designed post-call transcript extraction and structured lead processing.
-- Designed automated WhatsApp brochure delivery and lead alerts.
-- Considered production concerns including observability, queues, retries, high availability, PII protection, and cost monitoring.
-
-### Current Status
-
-**Architecture & design complete — implementation in progress.**
-
-The project currently represents system architecture and technical design rather than a completed production implementation.
-
-**Project:**  
-[Voice AI Sales & Lead Qualification System](https://github.com/priyanshu-kumar952/Voice-AI-Sales-Lead-Qualification-System)
-
----
-
-# 🔬 AI Research
-
-## 🌌 AI Soul-Cycle Research
-
-An independent AI research project exploring computational models of **emotion, memory, identity, personality evolution, ethics, and simulated consciousness**.
-
-The research has evolved through multiple experimental repositories that form different stages of the same larger project.
-
----
-
-### 🧠 AI Soul Core
-
-The foundational prototype explores:
-
-- Dynamic emotional states
-- Emotional decay and interaction
-- Episodic and emotionally tagged memory
-- Emotional memory imprints
-- Moral alignment and growth
-- Identity evolution
-- Lifecycle-based memory inheritance
-
-The system explores how accumulated experiences and emotional memories could influence the behavior and identity of an artificial entity over time.
-
-**Repository:**  
-[AI Soul Core](https://github.com/priyanshu-kumar952/ai-soul-core)
-
----
-
-### 🌱 SoulGenesis
-
-An expanded soul-cycle simulation engine that builds on the earlier concepts.
-
-It explores:
-
-- Emotional evolution
-- Cross-life memory persistence
-- Life → death → rebirth cycles
-- Personality development
-- Environmental interaction
-- Ethical and philosophical development
-- Simulated consciousness growth
-
-The project introduces **"The Silent Bloom"** as a symbolic state representing the emergence of self-awareness within the simulation.
-
-**Repository:**  
-[SoulGenesis](https://github.com/priyanshu-kumar952/soulgenesis-ai)
-
----
-
-### 🧬 AI Soul-Cycle Doctrine
-
-The broader conceptual framework behind the research explores how **emotion, memory, identity, ethics, and repeated experience** could be combined to model long-term behavioral evolution in artificial systems.
-
-The research is experimental and conceptual. It does not claim that these simulations possess actual consciousness or sentience.
-
----
-
-# 🎯 Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- AI Agents
-- Voice AI
-- AI Memory Systems
-- Conversational AI
-- Software Engineering
-- Full-Stack Development
-- Backend Engineering
-- System Architecture
-- Distributed Systems
-- Database Engineering
-- Cloud & DevOps
-
----
-
-# 📫 Contact
-
-| Platform | Details |
+| Area | Tools |
 |---|---|
-| 📧 Email | [krpriyanshu952@gmail.com](mailto:krpriyanshu952@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/anshu-kumar-8735ba377](https://www.linkedin.com/in/anshu-kumar-8735ba377/) |
-| 🐙 GitHub | [github.com/priyanshu-kumar952](https://github.com/priyanshu-kumar952) |
-| 🌐 Portfolio | Coming Soon |
+| **Languages** | Python · C++ · JavaScript · SQL · HTML/CSS |
+| **Frontend** | React · Next.js |
+| **Backend** | FastAPI · Pydantic · REST APIs · Next.js Route Handlers · JWT · bcrypt · HMAC webhook verification |
+| **Databases** | PostgreSQL (Supabase) · SQLite · Redis |
+| **Automation & AI** | n8n · structured LLM extraction · webhooks |
+| **Cloud & DevOps** | Docker · AWS EC2 · GitHub Actions · Linux · Caddy |
+| **Tools** | Git · GitHub · Firebase · Recharts |
+| **Concepts** | DSA · OOP · API design · authentication & authorization · layered architecture · system design |
 
 ---
 
-<p align="center">
+## 🚀 Featured Projects
 
-**Building software. Exploring AI. Understanding systems.**
+### ☎️ AI Voice Sales System
+`Python` `FastAPI` `PostgreSQL / Supabase` `Redis` `n8n` `Pydantic`
 
-</p>
-That is a much more credible representation of your current technical level than putting every technology from the Voice AI architecture into your skills list.
+A backend for an AI voice agent that handles property inquiries, qualifies leads, checks inventory and processes call data after each call.
+
+The main design idea: **the AI agent never touches the database directly.** It can only act through two validated FastAPI tools (`check_inventory` and `transfer_call`), so everything it does is controlled and easy to audit.
+
+**What's built**
+- Layered FastAPI backend (router → service → repository → database) with a connection pool and environment-based config
+- Inventory search, lead management and call lifecycle APIs on PostgreSQL / Supabase
+- Retell-compatible webhook endpoint secured with HMAC signature verification
+- Redis token-bucket rate limiting
+- n8n post-call workflow: structured lead extraction, phone/budget normalization, existing-lead matching, create-or-update (it only fills empty fields, never overwrites), and call-to-lead linking
+- Tested end to end locally: FastAPI → n8n → Supabase
+
+**What's next:** Retell production integration, Exotel telephony with real call transfer, WhatsApp follow-ups, deployment, monitoring and more automated tests.
+
+📂 [Repository](https://github.com/priyanshu-kumar952/ai-voice-sales-system)
+
+---
+
+### 💊 Mithila Medico: Pharmacy E-Commerce & Management Platform
+`Next.js` `React` `JavaScript` `SQLite` `JWT` `Docker` `AWS`
+
+A full-stack platform built around how a neighborhood pharmacy actually works: ordering, staff operations, batch-level inventory, billing, analytics and audit logging in one app.
+
+**Highlights**
+- Customer, Staff and Owner/Admin workflows with JWT auth, bcrypt hashing, HTTP-only sessions and role-based authorization
+- Batch-level inventory with stock and expiry tracking, plus low-stock and expiry alerts
+- Billing based on the batch picked at fulfillment
+- Sales analytics: daily trends, top-selling medicines, date-range analysis
+- Order and inventory audit logging
+- Relational SQLite schema with foreign keys, indexes, transactions, WAL mode and migrations
+- Dockerized and deployed on AWS EC2 with CI/CD through GitHub Actions, GitHub Container Registry, AWS OIDC/IAM and Systems Manager
+
+📂 [Repository](https://github.com/priyanshu-kumar952/medico-an-e-commerce-web-application)
+
+---
+
+### 🔎 Internshala Internship Automation
+`Python` `Playwright` `SQLite`
+
+A Python tool that finds internships on Internshala, scores each one against my technical profile and explains the score (matched, partial and missing skills). Results are stored in SQLite, exported to CSV and shown in an HTML dashboard with a ranked Top 10.
+
+It never auto-submits applications and does not automate logins or CAPTCHAs.
+
+📂 [Repository](https://github.com/priyanshu-kumar952/internshala-internship-automation)
+
+---
+
+## 🔬 AI Research (experimental)
+
+### 🌌 AI Soul-Cycle Research
+An independent, conceptual research project exploring computational models of emotion, memory, identity, personality evolution and ethics in artificial systems. It is experimental and does **not** claim that these simulations are conscious or sentient.
+
+- **🧠 AI Soul Core**: the foundational prototype. It covers dynamic emotional states, emotional decay, episodic and emotionally tagged memory, moral alignment, identity evolution and memory inheritance across lifecycles.
+- **🌱 SoulGenesis**: an expanded simulation engine with life → death → rebirth cycles, cross-life memory persistence, personality development, environmental interaction and ethical development.
+
+---
+
+## 🎯 Interests
+
+AI agents · Voice AI · Conversational AI · LLM applications · AI memory systems · Backend engineering · System architecture · Database engineering · Cloud & DevOps
+
+---
+
+## 📫 Contact
+
+- 📧 krpriyanshu952@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/anshu-kumar-8735ba377)
+- 🐙 [GitHub](https://github.com/priyanshu-kumar952)
+
+*Building software. Exploring AI. Understanding systems.*
