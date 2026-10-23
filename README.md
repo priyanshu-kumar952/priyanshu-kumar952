@@ -81,16 +81,6 @@ It never auto-submits applications and does not automate logins or CAPTCHAs.
 
 ---
 
-## 🔬 AI Research (experimental)
-
-### 🌌 AI Soul-Cycle Research
-An independent, conceptual research project exploring computational models of emotion, memory, identity, personality evolution and ethics in artificial systems. It is experimental and does **not** claim that these simulations are conscious or sentient.
-
-- **🧠 AI Soul Core**: the foundational prototype. It covers dynamic emotional states, emotional decay, episodic and emotionally tagged memory, moral alignment, identity evolution and memory inheritance across lifecycles.
-- **🌱 SoulGenesis**: an expanded simulation engine with life → death → rebirth cycles, cross-life memory persistence, personality development, environmental interaction and ethical development.
-
----
-
 ## 🎯 Interests
 
 AI agents · Voice AI · Conversational AI · LLM applications · AI memory systems · Backend engineering · System architecture · Database engineering · Cloud & DevOps
